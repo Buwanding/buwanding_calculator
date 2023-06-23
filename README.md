@@ -38,9 +38,6 @@ https://maniruzzamanakash.github.io/react-calculator
 
 ### `npm run build`
 
-To Get More Help to start with React Go - [Create React App](https://github.com/facebook/create-react-app).
-
-
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
@@ -65,8 +62,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 ### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
