@@ -1,6 +1,6 @@
 ## Simple React Calculator
 A Calculator Using React JS - https://maniruzzamanakash.github.io/react-calculator/
-
+`http://localhost:3001/react-calculator`
 ## Demo Look
 
 ##### Live Link: https://maniruzzamanakash.github.io/react-calculator/
